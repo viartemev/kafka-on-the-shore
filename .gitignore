@@ -1,0 +1,11 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+
+### Gradle ###
+out/
+.gradle/
+build/
+
+#tmp
+CONTENT.md
